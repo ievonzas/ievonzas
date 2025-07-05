@@ -1,16 +1,38 @@
-## Hi there 👋
+Hello!
 
-<!--
-**ievonzas/ievonzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ieva and I am a beginner Web Developer and a student at Turing College.
 
-Here are some ideas to get you started:
+At Turing college I am building a strong foundation in software engineering and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The curriculum covers a wide range of topics, including:
+
+Programming & Computer Science
+- Python fundamentals and intermediate programming
+- Object-Oriented Programming (OOP)
+- Core computer science concepts
+
+Web Development
+- HTML, CSS, and JavaScript
+- Node.js and relational databases
+- Vue.js and modern JavaScript frameworks
+- REST APIs, TDD, and full-stack fundamentals
+- Containers and CI/CD pipelines
+
+
+Tools & Technologies
+- Python, JavaScript, HTML/CSS
+- Node.js, Vue.js
+- Git & GitHub, Docker, SQL
+- Test-driven development (TDD), CI/CD
+
+
+Additionally:
+
+AI Engineering
+- Foundations of LLM application development
+- Building with LangChain, RAGs, and Streamlit
+- AI agents and autonomous workflows
+- AI Engineering Capstone project
+
+Please note, that this is just the beginning. More projects coming soon!
+
