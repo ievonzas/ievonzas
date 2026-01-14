@@ -2,7 +2,7 @@ Hello!
 
 My name is Ieva and I am a beginner Web Developer and a student at Turing College.
 
-At Turing college I am building a strong foundation in software engineering and full-stack development.
+At Turing College I am building a foundation in software engineering and full-stack development.
 
 The curriculum covers a wide range of topics, including:
 
