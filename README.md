@@ -32,7 +32,6 @@ AI Engineering
 - Foundations of LLM application development
 - Building with LangChain, RAGs, and Streamlit
 - AI agents and autonomous workflows
-- AI Engineering Capstone project
 
 Please note, that this is just the beginning. More projects coming soon!
 
